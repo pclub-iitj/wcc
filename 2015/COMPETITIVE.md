@@ -16,6 +16,7 @@
 8. Chinese Remainder Theorem
 9. Basic combinatorics and counting
 10. Problems<br>
+   - [Spoj Archive](http://www.spoj.com/problems/tag/number-theory)
    - [Codeforces Archive - sorted in order of difficulty](http://codeforces.com/problemset/tags/number%20theory?order=BY_SOLVED_DESC)
    - [Project Euler Problems - Hackerrank](https://www.hackerrank.com/contests/projecteuler/challenges)
    - [FIBOSUM](http://www.spoj.com/problems/FIBOSUM/), [LCMSUM](http://www.spoj.com/problems/LCMSUM/), [AMR15B](https://www.codechef.com/ACMAMR15/problems/AMR15B), [PE25](https://www.hackerrank.com/contests/projecteuler/challenges/euler025), [472A](http://codeforces.com/problemset/problem/472/A), [456B](http://codeforces.com/problemset/problem/456/B), [576A](http://codeforces.com/problemset/problem/576/A), [547C](http://codeforces.com/problemset/problem/547/C), [584D](http://codeforces.com/problemset/problem/584/D), [585C](http://codeforces.com/problemset/problem/585/C), [582C](http://codeforces.com/problemset/problem/582/C), [585E](http://codeforces.com/problemset/problem/585/E), [575H](http://codeforces.com/problemset/problem/575/H), [TCO1512](https://community.topcoder.com/stat?c=problem_statement&pm=14044), [TCO1513](https://community.topcoder.com/stat?c=problem_statement&pm=13986), [SRM66712](https://community.topcoder.com/stat?c=problem_statement&pm=13643), [SRM66812](https://community.topcoder.com/stat?c=problem_statement&pm=13983)
@@ -25,10 +26,14 @@
 1. States, base criterion and recursion equations
 2. Estimating and recognizing dimensions
 3. Iterative vs (Recursion + Memoization) solutions
-4. With bitmasking
-5. Problems
-  - [Codeforces archive - sorted difficulty order](http://codeforces.com/problemset/tags/dp?order=BY_SOLVED_DESC)
-  - [Topcoder archive](https://community.topcoder.com/tc?module=ProblemArchive&cat=Dynamic+Programming)
+4. Edit Distance, LCS - extend to 3D
+5. With bitmasking - [A problem](http://www.spoj.com/problems/COURIER/)
+6. Counting - [A problem](https://www.codechef.com/IPC15P1B/problems/ZGSEQ)
+7. Problems
+  - [Spoj Archive - DP](http://www.spoj.com/problems/tag/dynamic-programming)
+  - [Spoj Archive - Bitmasks](http://www.spoj.com/problems/tag/bitmasks)
+  - [Codeforces Archive - sorted difficulty order](http://codeforces.com/problemset/tags/dp?order=BY_SOLVED_DESC)
+  - [Topcoder Archive](https://community.topcoder.com/tc?module=ProblemArchive&cat=Dynamic+Programming)
 
 ## Graphs
 1. Representation and definitions
@@ -43,8 +48,9 @@
 3. Problems
   - Coloring
   - Connected components
-  - [Codeforces archive - sorted difficulty order](http://codeforces.com/problemset/tags/graphs?order=BY_SOLVED_DESC)
-  - [Topcoder archive](https://community.topcoder.com/tc?module=ProblemArchive&cat=Graph+Theory)
+  - [Spoj Archive](http://www.spoj.com/problems/tag/graph-theory)
+  - [Codeforces Archive - sorted difficulty order](http://codeforces.com/problemset/tags/graphs?order=BY_SOLVED_DESC)
+  - [Topcoder Archive](https://community.topcoder.com/tc?module=ProblemArchive&cat=Graph+Theory)
 
 ## More Data Structures
 1. Binary Indexed Tree / Fenwick Tree
