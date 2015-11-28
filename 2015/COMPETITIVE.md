@@ -27,8 +27,8 @@
 2. Estimating and recognizing dimensions
 3. Iterative vs (Recursion + Memoization) solutions
 4. Edit Distance, LCS - extend to 3D
-5. With bitmasking - [A problem](http://www.spoj.com/problems/COURIER/)
-6. Counting - [A problem](https://www.codechef.com/IPC15P1B/problems/ZGSEQ)
+5. With bitmasking - [example problem](http://www.spoj.com/problems/COURIER/)
+6. Counting - [example problem](https://www.codechef.com/IPC15P1B/problems/ZGSEQ)
 7. Problems
   - [Spoj Archive - DP](http://www.spoj.com/problems/tag/dynamic-programming)
   - [Spoj Archive - Bitmasks](http://www.spoj.com/problems/tag/bitmasks)
