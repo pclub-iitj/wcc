@@ -53,11 +53,12 @@
   - [Topcoder Archive](https://community.topcoder.com/tc?module=ProblemArchive&cat=Graph+Theory)
 
 ## More Data Structures
-1. Binary Indexed Tree / Fenwick Tree
-2. Segment Tree
+1. Heaps - Priority queues
+2. Binary Indexed Tree / Fenwick Tree
+3. Segment Tree
   - Lazy propogation
-3. Tries, Suffix Arrays
-4. Persistent data structures
+4. Tries, Suffix Arrays
+5. Persistent data structures
   - Persistent Linked Lists
   - Persistent Segment Trees
   - Problems
@@ -67,8 +68,9 @@
 
 ## More Algorithms
 1. KMP Algorithm
-2. Sqrt decomposition
-3. Heavy-light decomposition
+2. LRU
+3. Sqrt decomposition
+4. Heavy-light decomposition
 
 ## Practice Problems
 - To be listed ...
