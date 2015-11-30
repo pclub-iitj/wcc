@@ -28,7 +28,7 @@
 3. Iterative vs (Recursion + Memoization) solutions
 4. Edit Distance, LCS - extend to 3D
 5. With bitmasking - [example problem](http://www.spoj.com/problems/COURIER/)
-6. Counting - [example problem](https://www.codechef.com/IPC15P1B/problems/ZGSEQ)
+6. With combinatorics [example problem 1](https://www.codechef.com/IPC15P1B/problems/ZGSEQ), [example problem 2](https://community.topcoder.com/stat?c=problem_statement&pm=7261&rd=10011)
 7. Problems
   - [Spoj Archive - DP](http://www.spoj.com/problems/tag/dynamic-programming)
   - [Spoj Archive - Bitmasks](http://www.spoj.com/problems/tag/bitmasks)
