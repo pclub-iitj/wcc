@@ -9,6 +9,9 @@
 2. [PE25](https://www.hackerrank.com/contests/projecteuler/challenges/euler025)
 
 ### Practice problems
-1. [FIBOSUM](http://www.spoj.com/problems/FIBOSUM/)
-2. [LCMSUM](http://www.spoj.com/problems/LCMSUM/)
-3. [AMR15B](https://www.codechef.com/ACMAMR15/problems/AMR15B)
+1. [PRIME1](http://www.spoj.com/problems/PRIME1/)
+2. [DIVSUM](http://www.spoj.com/problems/DIVSUM/)
+3. [ETF](http://www.spoj.com/problems/ETF/)
+4. [FIBOSUM](http://www.spoj.com/problems/FIBOSUM/)
+5. [LCMSUM](http://www.spoj.com/problems/LCMSUM/)
+6. [AMR15B](https://www.codechef.com/ACMAMR15/problems/AMR15B)
