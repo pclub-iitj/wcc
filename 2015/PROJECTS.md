@@ -1,4 +1,4 @@
-Some random ideas for projects for WCC 2015. List will be uodated as and when required.
+Some random ideas for projects for WCC 2015. List will be updated as and when required.
 
 ## Sandbox to run a binary securely
 
